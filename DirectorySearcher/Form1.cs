@@ -33,7 +33,7 @@ namespace DirectorySearcher
             paramThree = searchThree.Text;
 
 
-            string[] allDocuments = Directory.GetFiles(@"C:\Users\slip4\OneDrive\Documents");
+            string[] allDocuments = Directory.GetFiles(@"C:\Users\Documents");
 
 
             //foreach (var item in allDocuments)
